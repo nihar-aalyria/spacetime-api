@@ -349,6 +349,9 @@ func (es *enactmentService) handleScheduledUpdate(ctx context.Context, req *afpb
 		Time("now", now).
 		Time("tte", tte).
 		Msg("handling scheduled update")
+	log.Debug().
+		Object("request", loggable.Proto(upd)).
+		Msg("incoming request")
 
 	if tte.Before(now) && shouldRejectStaleRequest(upd) {
 		return es.rejectStaleRequest(ctx, upd)
