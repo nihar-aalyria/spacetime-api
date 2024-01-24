@@ -31,8 +31,7 @@ proto_library(
         "//api/nbi/v1alpha/resources:nbi_resources_proto",
         "@com_google_protobuf//:duration_proto",
         "@com_google_protobuf//:timestamp_proto",
-        "@googleapis//google/type:interval_proto",
-        # "@com_google_protobuf//src/google/protobuf/compiler/java:names"
+        "@go_googleapis//google/type:interval_proto",
     ],
 )
 

@@ -49,8 +49,8 @@ proto_library(
         "@com_google_protobuf//:duration_proto",
         "@com_google_protobuf//:empty_proto",
         "@com_google_protobuf//:timestamp_proto",
-        "@googleapis//google/rpc:status_proto",
-        "@googleapis//google/type:interval_proto",
+        "@go_googleapis//google/rpc:status_proto",
+        "@go_googleapis//google/type:interval_proto",
     ],
 )
 
