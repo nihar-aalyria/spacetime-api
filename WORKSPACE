@@ -528,6 +528,7 @@ compat_repositories()
 python_register_toolchains(
     name = "python3_9",
     python_version = "3.9",
+    ignore_root_user_error = True,
 )
 
 load("@python3_9//:defs.bzl", "interpreter")
