@@ -1,0 +1,6 @@
+
+ç
+=envoy/extensions/http/stateful_session/cookie/v3/cookie.proto0envoy.extensions.http.stateful_session.cookie.v3envoy/type/http/v3/cookie.protoudpa/annotations/status.protovalidate/validate.proto"W
+CookieBasedSessionState<
+cookie (2.envoy.type.http.v3.CookieBúBŠRcookieB¹
+>io.envoyproxy.envoy.extensions.http.stateful_session.cookie.v3BCookieProtoPZ`github.com/envoyproxy/go-control-plane/envoy/extensions/http/stateful_session/cookie/v3;cookiev3º€ÈÑbproto3

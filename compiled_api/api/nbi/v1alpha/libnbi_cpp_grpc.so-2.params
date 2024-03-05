@@ -1,0 +1,15 @@
+-shared
+-o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/libnbi_cpp_grpc.so
+-Wl,-S
+-fuse-ld=gold
+-Wl,-no-as-needed
+-Wl,-z,relro,-z,now
+-B/usr/bin
+-pass-exit-codes
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/nbi.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/signal_propagation.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/nbi.grpc.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/signal_propagation.grpc.pb.pic.o
+-lstdc++
+-lm

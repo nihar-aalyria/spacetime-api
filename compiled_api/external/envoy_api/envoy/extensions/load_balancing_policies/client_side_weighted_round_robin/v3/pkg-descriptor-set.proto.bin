@@ -1,0 +1,11 @@
+
+Í
+senvoy/extensions/load_balancing_policies/client_side_weighted_round_robin/v3/client_side_weighted_round_robin.protoLenvoy.extensions.load_balancing_policies.client_side_weighted_round_robin.v3google/protobuf/duration.protogoogle/protobuf/wrappers.protoudpa/annotations/status.proto"û
+ClientSideWeightedRoundRobinO
+enable_oob_load_report (2.google.protobuf.BoolValueRenableOobLoadReportK
+oob_reporting_period (2.google.protobuf.DurationRoobReportingPeriodB
+blackout_period (2.google.protobuf.DurationRblackoutPeriodS
+weight_expiration_period (2.google.protobuf.DurationRweightExpirationPeriodK
+weight_update_period (2.google.protobuf.DurationRweightUpdatePeriodW
+error_utilization_penalty (2.google.protobuf.FloatValueRerrorUtilizationPenaltyB¢
+Zio.envoyproxy.envoy.extensions.load_balancing_policies.client_side_weighted_round_robin.v3B!ClientSideWeightedRoundRobinProtoPZ–github.com/envoyproxy/go-control-plane/envoy/extensions/load_balancing_policies/client_side_weighted_round_robin/v3;client_side_weighted_round_robinv3º€ÈÑbproto3

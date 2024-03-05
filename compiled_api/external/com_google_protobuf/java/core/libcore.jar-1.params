@@ -1,0 +1,6 @@
+--classpath
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/liblite_runtime_only-hjar.jar
+--reduce_classpath_mode
+JAVABUILDER_REDUCED
+--deps_artifacts
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/liblite_runtime_only-hjar.jdeps

@@ -1,0 +1,9 @@
+
+ä
+xds/service/orca/v3/orca.protoxds.service.orca.v3'xds/data/orca/v3/orca_load_report.protogoogle/protobuf/duration.proto"‰
+OrcaLoadReportRequestB
+report_interval (2.google.protobuf.DurationRreportInterval,
+request_cost_names (	RrequestCostNames2u
+OpenRcaServicec
+StreamCoreMetrics*.xds.service.orca.v3.OrcaLoadReportRequest .xds.data.orca.v3.OrcaLoadReport0BY
+com.github.xds.service.orca.v3B	OrcaProtoPZ*github.com/cncf/xds/go/xds/service/orca/v3bproto3

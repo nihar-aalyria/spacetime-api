@@ -1,0 +1,12 @@
+--classpath
+bazel-out/k8-fastbuild/bin/external/com_google_googleapis/google/api/liblabel_proto-speed-hjar.jar
+bazel-out/k8-fastbuild/bin/external/com_google_googleapis/google/api/liblaunch_stage_proto-speed-hjar.jar
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/libcore-hjar.jar
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/liblite_runtime_only-hjar.jar
+--reduce_classpath_mode
+JAVABUILDER_REDUCED
+--deps_artifacts
+bazel-out/k8-fastbuild/bin/external/com_google_googleapis/google/api/liblabel_proto-speed-hjar.jdeps
+bazel-out/k8-fastbuild/bin/external/com_google_googleapis/google/api/liblaunch_stage_proto-speed-hjar.jdeps
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/liblite_runtime_only-hjar.jdeps
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/libcore-hjar.jdeps

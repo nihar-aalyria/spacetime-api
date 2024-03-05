@@ -1,0 +1,6 @@
+rcsD
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/libnbi_cpp_grpc.a
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/nbi.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/signal_propagation.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/nbi.grpc.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/nbi/v1alpha/_objs/nbi_cpp_grpc/signal_propagation.grpc.pb.pic.o

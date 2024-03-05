@@ -1,0 +1,4 @@
+rcsD
+bazel-out/k8-fastbuild/bin/api/cdpi/v1alpha/libcdpi_cpp_grpc.a
+bazel-out/k8-fastbuild/bin/api/cdpi/v1alpha/_objs/cdpi_cpp_grpc/cdpi.pb.pic.o
+bazel-out/k8-fastbuild/bin/api/cdpi/v1alpha/_objs/cdpi_cpp_grpc/cdpi.grpc.pb.pic.o

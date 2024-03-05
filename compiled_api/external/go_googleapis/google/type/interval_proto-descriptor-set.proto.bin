@@ -1,0 +1,8 @@
+
+»
+google/type/interval.protogoogle.typegoogle/protobuf/timestamp.proto"|
+Interval9
+
+start_time (2.google.protobuf.TimestampR	startTime5
+end_time (2.google.protobuf.TimestampRendTimeBi
+com.google.typeBIntervalProtoPZ<google.golang.org/genproto/googleapis/type/interval;intervalø¢GTPbproto3
